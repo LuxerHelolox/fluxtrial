@@ -1,7 +1,7 @@
 apiVersion: v1
 data:
   key1: sanyi
-  key2: bela
+  key2: beluci
 kind: ConfigMap
 metadata:
   creationTimestamp: null
